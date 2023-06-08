@@ -111,7 +111,7 @@ function parent_disable() {
 								<ul class="actions">
 									<i class="url-icon uil uil-link"></i>
 									<li><button class="button next scrolly">Shorten!</button></li>
-									<li><button class="button next scrolly">Go!</button></li>
+									
 								</ul>
 							</div>
 
@@ -135,6 +135,7 @@ function parent_disable() {
 									<ul class="actions">
 										<i class="url-icon uil uil-link"></i>
 										<li><button class="button">Copy</button></li>
+										<li><button class="button">Go!</button></li>
 									</ul>
 								</div>
 							</header>
